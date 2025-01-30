@@ -1,6 +1,5 @@
 # Fizzy-drinks-Powerbi-Dashboard
 This repository contains a Power BI dashboard, Power Query scripts, and Excel files designed for data cleaning and analysis of fizzy drink sales in the USA. The project focuses on the following key objectives:
-
 Data Cleaning & Transformation: Using Power Query and Excel to preprocess and clean raw sales data, ensuring accuracy and consistency for analysis.
 Data Integration: Combining various data sources to create a unified dataset for sales analysis, focusing on key metrics like sales volume, revenue, and regional performance.
 Sales Visualization: A Power BI dashboard showcasing visualizations such as sales trends, regional comparisons, and product performance to support decision-making.
